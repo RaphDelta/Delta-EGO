@@ -15,3 +15,15 @@ Dieses Repository dient der öffentlichen Offenlegung (Prior Art), um den konzep
 
 © 2025 Raphael Kuhn  
 Verwendung nur mit ausdrücklicher Genehmigung. Kein kommerzieller Gebrauch ohne schriftliche Vereinbarung.
+
+
+## 📜 License
+
+This project (including both the original German and this English version) is licensed under:
+
+**Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)**  
+[https://creativecommons.org/licenses/by-nc-nd/4.0/](https://creativecommons.org/licenses/by-nc-nd/4.0/)
+
+This English translation reflects the same intellectual work as the German original.  
+All rights and limitations apply equally.
+
